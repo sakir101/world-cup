@@ -100,8 +100,9 @@ main {
     cursor: pointer;
 }
 
-.filled a{
+.filled {
     color: #161616;
+    font-weight: 700;
 }
 
 .filled-red {
@@ -114,8 +115,9 @@ main {
     cursor: pointer;
 }
 
-.filled-red a{
+.filled-red {
     color: white;
+    font-weight: 700;
 }
 .blog-nav a {
     text-decoration: none;
